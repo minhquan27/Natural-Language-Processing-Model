@@ -11,5 +11,5 @@ https://github.com/minhquan27/Natural-Language-Processing-Model/tree/master/LSTM
 
 https://github.com/minhquan27/Natural-Language-Processing-Model/tree/master/LSTM_Attention
 
-[Data](https://www.kaggle.com/c/quora-insincere-questions-classification)
+[Data Quora Insincere Questions](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
