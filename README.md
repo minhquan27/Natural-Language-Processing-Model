@@ -6,7 +6,7 @@ Natural Language Processing Model
 
 https://github.com/minhquan27/Natural-Language-Processing-Model/tree/master/LSTM_Sentiment_Model
 
-**Task 2** Detect toxic content to improve online conversations Using LSTM Attention Pytorch
+**Task 2**: Detect toxic content to improve online conversations Using LSTM Attention Pytorch
 
 
 https://github.com/minhquan27/Natural-Language-Processing-Model/tree/master/LSTM_Attention
@@ -14,7 +14,7 @@ https://github.com/minhquan27/Natural-Language-Processing-Model/tree/master/LSTM
 [Data Quora Insincere Questions](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
 
-**Task 3** Sentiment Analysis VietNamese in Ecommerce using Pytorch - AIVIVN contests 1
+**Task 3**: Sentiment Analysis VietNamese in Ecommerce using Pytorch - AIVIVN contests 1
 
 
 https://github.com/minhquan27/Natural-Language-Processing-Model/tree/master/sentiment-analysis%20vietnamese%20
